@@ -14,7 +14,7 @@ setuptools<70.0.0
 supabase #free database which have best performance and stores 1 to 2 gb data which is enough for text data
 bcrypt # for hashing the passwords
 segno # for QR CODE generation
-pilow # for image processing  ==>image  dealing library
+pillow # for image processing  ==>image  dealing library
 
 librosa
 resemblyzer
