@@ -2,7 +2,7 @@
 .vscode
 *.pyc
 .DS_Store
-__pychache__/
+__pycache__/
 venv/
 .streamlit/
 dist/
